@@ -149,7 +149,7 @@ Santander-Customer-Satisfaction/
    - `test.csv`
    - `sample_submission.csv`
 
-3. Run the notebook:
+3. Run the notebook from Final Notebook Folder:
    - `santander_customer_satisfaction_complete.ipynb`
 ---
 
