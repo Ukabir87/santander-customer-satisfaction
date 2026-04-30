@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="UTA-DataScience-Logo.png" width="200"/>
+  <img src="UTA_DataScience_Logo.png" width="200"/>
 </p>
 
 # Santander Customer Satisfaction Prediction
