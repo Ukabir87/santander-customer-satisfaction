@@ -123,7 +123,7 @@ Model training was performed using Python and scikit-learn in a Jupyter Notebook
 ---
 
 ## Repository Structure
-
+```
 Santander-Customer-Satisfaction/
 │
 ├── Final Notebook/
@@ -138,19 +138,21 @@ Santander-Customer-Satisfaction/
 ├── README.md
 ├── LICENSE
 ├── .gitignore
-
+```
 
 ---
 
 ## How to Run the Project
 
-1. Clone the repository
-2. Download dataset from Kaggle:
-   https://www.kaggle.com/competitions/santander-customer-satisfaction/data
-3. Place `train.csv` and `test.csv` in the project folder
-4. Run the notebook:
-   - `santander_customer_satisfaction_complete.ipynb`
+1. Clone the repository  
 
+2. Place the following files from dataset into the **project root folder** (same location as the notebook):
+   - `train.csv`
+   - `test.csv`
+   - `sample_submission.csv`
+
+3. Run the notebook:
+   - `santander_customer_satisfaction_complete.ipynb`
 ---
 
 ## Required Libraries
