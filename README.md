@@ -136,8 +136,6 @@ Santander-Customer-Satisfaction/
 │
 ├── santander_submission.csv
 ├── README.md
-├── LICENSE
-├── .gitignore
 ```
 
 ---
